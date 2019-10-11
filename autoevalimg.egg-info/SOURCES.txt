@@ -1,0 +1,7 @@
+README.md
+autoevalimg
+setup.py
+autoevalimg.egg-info/PKG-INFO
+autoevalimg.egg-info/SOURCES.txt
+autoevalimg.egg-info/dependency_links.txt
+autoevalimg.egg-info/top_level.txt
