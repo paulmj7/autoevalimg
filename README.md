@@ -16,7 +16,7 @@ python
 
 Import the package
 ```
-from autoevalimg import AutoEvalImgManager
+import autoevalimg
 ```
 
 Reference the folder of images to evaluate
