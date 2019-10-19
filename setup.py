@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="autoevalimg",
-    version="0.1",
+    version="1.0",
     scripts=['autoevalimg'],
     author="Paul Jones",
     author_email="paulj51299@gmail.com",
